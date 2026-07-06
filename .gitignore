@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# TouchDesigner projects & backups (only the .tox component belongs in this repo)
+*.toe
+*.toe.*
+Backup/
+*.dmp
+
+# Editors
+.vscode/
+.idea/

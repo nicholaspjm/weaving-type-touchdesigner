@@ -4,6 +4,9 @@ A TouchDesigner instrument that renders **text, images, and 3D geometry as droop
 
 It started as a port of [airfan003's WeavingType](https://airfan003.github.io/WeavingType/) (#Genuary) and grew into a full real-time instrument.
 
+Download from this Repo or from [my pateron](https://www.patreon.com/c/PJCreations)
+[Example Project Files Here](https://www.patreon.com/c/PJCreations)
+
 ---
 
 ## Requirements
